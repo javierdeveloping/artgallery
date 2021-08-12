@@ -5,4 +5,6 @@ Just a link to the demo is provided.  https://d3szffywgt7uqm.cloudfront.net/inde
 
 Uploaded to AWS S3 and content distributed with Cloudfront.
 
+Tech stack: C#, Unity3D
+
 
